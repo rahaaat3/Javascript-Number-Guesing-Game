@@ -1,0 +1,48 @@
+
+
+   * {
+    text-align: center;
+    background-color: #212121;
+  }
+  
+  .btn {
+    margin: 10px;
+    padding: 20px;
+    background: rgb(255, 0, 0);
+  }
+  
+  .btn:hover {
+    background-color: rgb(8, 219, 85);
+    transition: 1s ease-in;
+  }
+  
+  .firstInput, .secondInput, .thirdInput {
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .error {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .secondUi, .thirdUi, .picFour {
+    display: none;
+  }
+  
+  .pic {
+    background-size: cover;
+    transition: 2s ease-out;
+  }
+  
+  .white {
+    color: white;
+  }
+  
+  .picFour {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
